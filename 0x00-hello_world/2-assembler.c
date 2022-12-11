@@ -1,6 +1,0 @@
-#!/bin/bash
-#include <stdio.h>
-int main(void)
-{ printf("hello wold\n");
-	return(0);
-}
